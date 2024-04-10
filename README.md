@@ -12,12 +12,10 @@
 
 <h2>Installation</h2>
 <ol>
-    <li>Clone the repository:</li>
-    <code>git clone https://github.com/username/battleship-game.git</code>
     <li>Navigate to the project directory:</li>
     <code>cd battleship-game</code>
     <li>Install dependencies:</li>
-    <code>pip install -r requirements.txt</code>
+    <code>look at the venv file </code>
     <li>Run the server script:</li>
     <code>python battleshipsserver.py</code>
     <li>Run the client script:</li>
